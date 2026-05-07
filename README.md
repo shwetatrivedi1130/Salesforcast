@@ -66,7 +66,7 @@ The dashboard provides insights such as:
 ## 📷 Dashboard Preview
 
 ```md
-![Dashboard Screenshot](image-name.png)
+![Dashboard Screenshot](https://github.com/shwetatrivedi1130/Salesforcast/blob/main/Screenshot%202026-05-07%20120755.png)
 ```
 
 ---
